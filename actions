@@ -1,0 +1,44 @@
+https://docs.google.com/document/d/1Gq24q6tIDDZf-DcOoNrbDT_v1ME1T7J3nE9F0-RmvYU/edit
+Token incentives/use dynamics action types
+Stake - place in escrow with intent of receiving back after some period/series of events
+Unstake
+Check token price (in some fiat)
+
+Buy - spot price
+Sell - spot price
+Disallow due to insufficient funds
+Change recipient wallet address 
+Change sender wallet address
+Request co-signer approve transaction (for multisig wallet)
+Co-signer approves transaction
+Co-signer rejects transaction
+Send Message - private message/DM to set of other agents
+Broadcast message - public message to all available agents
+Read private message - part of cost of information
+Offer - make good/service available 
+Read public message
+Search public message board
+Check state of another agent
+Follow another agent
+(something about making their state information private/opaque to other agents)
+Query registry
+Check time
+Hold position (pass turn)
+Check revelation of information by a threshold of users
+Update position
+Propose trade
+Rescind proposed trade - only possible at n+1 for proposal at time n
+Specify number of tokens - buy or sell
+Create account
+Connect ethereum wallet
+Vote yes
+Vote no
+Abstain from vote 
+Check outcome of vote
+Make claim (about state of an object relevant to a contract)
+Accept claim
+Contest claim
+Evaluate risk of a proposal/action
+
+Update risk aversion profile
+Propose collusion
